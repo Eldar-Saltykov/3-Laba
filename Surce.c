@@ -5,9 +5,9 @@ int main(void)
 {
 	setlocale(LC_ALL, "RUS");
 	int a, b, res1, res2, res3;
-	puts("Введите число а");
+	puts("Р’РІРµРґРёС‚Рµ С‡РёСЃР»Рѕ Р°");
 	scanf("%d", &a);
-	puts("Введите число b");
+	puts("Р’РІРµРґРёС‚Рµ С‡РёСЃР»Рѕ b");
 	scanf("%d", &b);
 	res1 = a * b;
 	res2 = a + b;
@@ -18,7 +18,6 @@ int main(void)
 	printf("| %2d * %2d | %2d + %2d | %2d - %2d |\n", a, b, a, b, a, b);
 	printf("-------------------------------\n");
 	printf("|    %2d   |   %2d    |    %2d   |\n", res1, res2, res3);
-
 
 
 
