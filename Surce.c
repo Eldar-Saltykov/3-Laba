@@ -1,3 +1,4 @@
+                                                                    // ЗАДАНИЕ 3 //
 #include <stdio.h>
 #include <locale.h>
 
