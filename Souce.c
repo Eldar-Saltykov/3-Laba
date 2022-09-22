@@ -1,3 +1,4 @@
+                                                                            //ВАРИАНТ 12
 #include<stdio.h>
 #include<locale.h>
 
